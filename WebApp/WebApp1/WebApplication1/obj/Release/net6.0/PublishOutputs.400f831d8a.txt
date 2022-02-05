@@ -1,0 +1,7 @@
+D:\git\AZ-204\WebApp\WebApp1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+D:\git\AZ-204\WebApp\WebApp1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\git\AZ-204\WebApp\WebApp1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\git\AZ-204\WebApp\WebApp1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+D:\git\AZ-204\WebApp\WebApp1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json
+D:\git\AZ-204\WebApp\WebApp1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\git\AZ-204\WebApp\WebApp1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
