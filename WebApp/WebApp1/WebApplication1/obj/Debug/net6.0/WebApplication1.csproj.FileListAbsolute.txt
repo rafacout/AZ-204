@@ -7,7 +7,6 @@ D:\git\AZ-204\WebApp\WebApp1\WebApplication1\bin\Debug\net6.0\WebApplication1.ru
 D:\git\AZ-204\WebApp\WebApp1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
 D:\git\AZ-204\WebApp\WebApp1\WebApplication1\bin\Debug\net6.0\ref\WebApplication1.dll
 D:\git\AZ-204\WebApp\WebApp1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
-D:\git\AZ-204\WebApp\WebApp1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
 D:\git\AZ-204\WebApp\WebApp1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
 D:\git\AZ-204\WebApp\WebApp1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
 D:\git\AZ-204\WebApp\WebApp1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
